@@ -1,0 +1,11 @@
+title: cuh.. coh
+author: bigatuxo
+email: cuhcoh@gmail.com
+description: >
+  cuh.. coh (art work website)
+baseurl: ''
+url: 'http://cuhcoh.com'
+google_analytics: 'UA-159275643-1'
+markdown: kramdown
+sass:
+  style: compressed
